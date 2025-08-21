@@ -50,3 +50,6 @@ npm install
 yarn dev
 # or
 npm run dev
+```
+### real game online 
+- https://dice-game-qt97.onrender.com (test server)
