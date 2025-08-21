@@ -3,6 +3,9 @@
 A real-time multiplayer web application that brings the Catan Dice Game to life.  
 It provides synchronized dice rolls, animated effects, strict turn order, detailed player statistics, and persistent game history — everything you need to play with friends online.
 
+![Uploading image.png…]()
+
+
 ## ✅ Implemented Features
 
 1. **Real-Time Multiplayer** — 2 to 6 players connected via WebSocket.
